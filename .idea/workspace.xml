@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b175689-979f-4632-bb01-064cef64e136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers-day.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum.java" afterDir="false" />
+    <list default="true" id="1b175689-979f-4632-bb01-064cef64e136" name="Changes" comment="Task is done.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +50,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692310567794</updated>
-      <workItem from="1692310568887" duration="3705000" />
+      <workItem from="1692310568887" duration="4607000" />
     </task>
+    <task id="LOCAL-00001" summary="Task is done.">
+      <option name="closed" value="true" />
+      <created>1692344382081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692344382081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task is done." />
   </component>
 </project>
